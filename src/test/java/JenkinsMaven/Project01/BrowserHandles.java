@@ -42,6 +42,8 @@ public class BrowserHandles {
 	  System.out.println("Browser closed successfully");
 	  driver.quit();
 	  System.out.println("Browser Session closed successfully");
+	  
+	  System.out.println("Edited from GitHub");
 
   }
   
