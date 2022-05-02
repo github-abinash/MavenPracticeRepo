@@ -40,7 +40,7 @@ public class BrowserHandles {
 	  driver.quit();
 	  System.out.println("Browser Session closed successfully");
 	  
-	  System.out.println("Edited from GitHub");
+	  System.out.println("Edited from GitHub - 2nd attempt");
 
   }
   
